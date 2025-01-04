@@ -1,6 +1,6 @@
-# Ubuntu i3-gaps Rice Configuration
+# Ubuntu i3wm Rice Configuration
 
-A customized Ubuntu rice using i3-gaps window manager, featuring anime-styled Neofetch and various quality-of-life improvements. This configuration is adapted from Algorithm79's i3 dotfiles and modified for Ubuntu compatibility.
+A customized Ubuntu rice using i3 window manager, featuring anime-styled Neofetch. This configuration is adapted from Algorithm79's i3 dotfiles and modified for Ubuntu compatibility.
 
 ## Screenshots
 ![Workspace Layout](Selection_001.png)
