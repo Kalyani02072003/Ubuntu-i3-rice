@@ -1,6 +1,23 @@
-# Ubuntu i3wm Rice Configuration
+# Ubuntu i3-gaps Rice Configuration
 
-A customized Ubuntu rice using i3wm, with anime-styled Neofetch. This configuration is adapted from Algorithm79's i3 dotfiles and modified for Ubuntu 24 compatibility.
+A customized Ubuntu rice using i3-gaps window manager, featuring anime-styled Neofetch and various quality-of-life improvements. This configuration is adapted from Algorithm79's i3 dotfiles and modified for Ubuntu compatibility.
+
+## Screenshots
+
+![Desktop Overview](Screenshot from 2025-01-04 17-44-39.png)
+*Main desktop with Polybar and custom wallpaper*
+
+![Terminal with Neofetch](Screenshot from 2025-01-04 17-45-21.png)
+*Terminal showing custom Neofetch with anime ASCII art*
+
+![Workspace Layout](Selection_001.png)
+*i3-gaps workspace demonstration*
+
+![Rofi Launcher](Selection_003.png)
+*Custom Rofi application launcher*
+
+![System Info](Selection_004.png)
+*System information and customized workspace*
 
 ## Features
 
@@ -31,7 +48,7 @@ sudo apt install i3-gaps polybar kitty rofi dunst papirus-icon-theme picom feh n
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Kalyani02072003/ubuntu-i3-rice.git
+git clone https://github.com/yourusername/ubuntu-i3-rice.git
 cd ubuntu-i3-rice
 ```
 
@@ -76,14 +93,14 @@ mkdir -p ~/Pictures/Wallpapers
 
 ### Keyboard Shortcuts
 - Open terminal (Kitty): `Mod + Enter`
-- Launch Rofi: `Mod + z`
+- Launch Rofi: `Mod + d`
 - Close window: `Mod + q`
 - Lock screen: `Mod + x`
 - Full keybinding list available in `~/.config/i3/config`
 
 ## Notes
-- This rice is specifically modified for Ubuntu systems and no GPU
-- Some features might require additional configuration based on your hardware and distro
+- This rice is specifically modified for Ubuntu systems
+- Some features might require additional configuration based on your hardware
 - The Neofetch configuration includes a randomized anime ASCII art feature
 
 ## Credits
