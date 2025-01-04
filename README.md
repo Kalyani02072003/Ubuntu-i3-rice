@@ -3,21 +3,11 @@
 A customized Ubuntu rice using i3-gaps window manager, featuring anime-styled Neofetch and various quality-of-life improvements. This configuration is adapted from Algorithm79's i3 dotfiles and modified for Ubuntu compatibility.
 
 ## Screenshots
-
-![Desktop Overview](Screenshot from 2025-01-04 17-44-39.png)
-*Main desktop with Polybar and custom wallpaper*
-
-![Terminal with Neofetch](Screenshot from 2025-01-04 17-45-21.png)
-*Terminal showing custom Neofetch with anime ASCII art*
-
 ![Workspace Layout](Selection_001.png)
-*i3-gaps workspace demonstration*
 
 ![Rofi Launcher](Selection_003.png)
-*Custom Rofi application launcher*
 
 ![System Info](Selection_004.png)
-*System information and customized workspace*
 
 ## Features
 
